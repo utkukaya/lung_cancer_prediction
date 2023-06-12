@@ -1,0 +1,40 @@
+approach_names:
+- OHE_DI_FI
+- CDT_DI_OHE
+- OHE_DI
+- CDT_DI_FI_OHE
+- CDT_DI
+- CDT_DI_FI
+- OHE_DI_FI_IS_LIVE
+- CDT_DI_OHE_IS_LIVE
+- OHE_DI_IS_LIVE
+- CDT_DI_FI_OHE_IS_LIVE
+- CDT_DI_IS_LIVE
+- CDT_DI_FI_IS_LIVE
+- OHE_DI_FI_LIVE_MONTH
+- CDT_DI_OHE_LIVE_MONTH
+- OHE_DI_LIVE_MONTH
+- CDT_DI_FI_OHE_LIVE_MONTH
+- CDT_DI_LIVE_MONTH
+- CDT_DI_FI_LIVE_MONTH
+decimal:
+  A/A: 0.0
+  A/C: 2.0
+  A/T: 1.0
+  C/A: 8.0
+  C/C: 10.0
+  C/T: 9.0
+  G/C: 14.0
+  G/G: 15.0
+  G/T: 13.0
+  T/T: 5.0
+  AA: 0.0
+  AC: 2.0
+  AT: 1.0
+  CA: 8.0
+  CC: 10.0
+  CT: 9.0
+  GC: 14.0
+  GG: 15.0
+  GT: 13.0
+  TT: 5.0
